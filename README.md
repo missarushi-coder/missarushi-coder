@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🔭 I’m currently pursuing Bachelors in Computer Science <br>🌱 I’m currently learning Data Structures and Full Stack Development<br>👯 I’m looking to collaborate on Front-end development projects <br>📫 How to reach me **arushi.2023.1767@mirandahouse.ac.in**<br>
-<br>📑 Check my Resume -> 
+<br>📑 Check my Resume-> 
 **https://drive.google.com/file/d/1oK-sXSRG_0Yw7Sh5taxqx87C86zUXWci/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
